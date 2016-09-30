@@ -1,0 +1,22 @@
+.customDropDownContainer {
+	width: 50%;
+    margin: 0 auto;
+}
+.customDropDown, .customDropDown ul,
+.customDropDown .btn {
+	width: 250px;
+	text-align: left;
+	padding: 5px;
+}
+.customDropDown ul {
+	border: 1px solid lightgrey;
+}
+.listItems{
+	list-style:none;
+}
+.listShow {
+	display:block;
+}
+.listHide {
+	display:none;
+}
